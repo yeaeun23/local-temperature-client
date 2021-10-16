@@ -7,7 +7,7 @@
 ## 1. 기능
 - 오늘 날짜 출력
 - 현재 시간 출력
-- 현재 기온 출력 (서버에 저장된 데이터)
+- 현재 기온 출력 (서버 데이터 파싱)
 - [Server용 프로그램](https://github.com/yeaeun23/local-temperature-server)
 
 ## 2. 화면 예시
